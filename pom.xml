@@ -27,6 +27,12 @@
             <artifactId>agentscope-extensions-model-openai</artifactId>
             <version>2.0.5</version>
         </dependency>
+        <!-- DashScope（阿里云百炼）模型扩展：官方快速开始示例用 .model("dashscope:qwen-plus") -->
+        <dependency>
+            <groupId>io.agentscope</groupId>
+            <artifactId>agentscope-extensions-model-dashscope</artifactId>
+            <version>2.0.5</version>
+        </dependency>
         <!-- 简易日志实现 -->
         <dependency>
             <groupId>org.slf4j</groupId>
